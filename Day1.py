@@ -1,6 +1,6 @@
 ## Day 1
 
-### Create list and displayed with append().
+#### Create list and displayed with append().
 
 print("By using append() method")
 lst = []
