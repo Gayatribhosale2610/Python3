@@ -18,7 +18,6 @@ print("appended list is : \n",y)
 
 -----------------------------------------------------------------------
  
-    
 #### 2.Remove element from first, last and specific position.
 
 print("Remove element from first location")
