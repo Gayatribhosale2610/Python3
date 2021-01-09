@@ -15,7 +15,10 @@ x = [21,32,43]
 y = x + ['hello','welcome']
 print("x is : \n",x)
 print("appended list is : \n",y)
+
+-----------------------------------------------------------------------
  
+    
 #### 2.Remove element from first, last and specific position.
 
 print("Remove element from first location")
@@ -29,6 +32,8 @@ b = ['orange','lichi','mango',6,54,'apple']
 print("Given list is : \n",b)
 b.remove(b[-1])
 print(b)
+
+--------------------------------------------------------------------
 
 #### Add element at first, last, specific location in list.
 
