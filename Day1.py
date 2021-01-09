@@ -30,3 +30,22 @@ print("Given list is : \n",b)
 b.remove(b[-1])
 print(b)
 
+#### Add element at first, last, specific location in list.
+
+l1=[21,3,'happy','sad','thanks',32]
+print("List is : ",l1)
+print("Add element at first location: ")
+l1.insert(0,'sorrow')
+print(l1)
+
+l2=[43,3,'happy','sad',54,'bye']
+print("\nList is : ",l2)
+print("Add element at last position: ")
+l2.append('cool')
+print(l2)
+
+l3=[9,37,'thanks','happy',89,'good']
+print("\nList is : ",l3)
+print("Add element at specific locatin : ")
+l3.insert(4,'nice')
+print(l3)
