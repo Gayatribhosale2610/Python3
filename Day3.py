@@ -31,3 +31,12 @@ print(sort_list([(2,5),(1,2),(4,4),(2,3),(2,1)]))
 ----------------------------------------------------------------------------------------------------------------
 
 #### 3. A program to remove duplicates elements from a list.
+
+.a = [30,20,40,20,50]
+print("Given list is : ",a)
+b = set()
+c = []
+for i in a:
+    c.append(i)
+    b.add(i)
+print("Duplicate elements remove from a list : ",b)
