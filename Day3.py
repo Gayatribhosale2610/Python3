@@ -16,7 +16,7 @@ print("number of strings having same first and last character in a list : ",coun
 
 ----------------------------------------------------------------------------------------------------------------
 
-#### A program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples. 
+#### 2. A program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples. 
 
 def last(n):
     return n[-1]
@@ -29,3 +29,5 @@ print("\nlist sorted in icreasing order : ")
 print(sort_list([(2,5),(1,2),(4,4),(2,3),(2,1)]))
 
 ----------------------------------------------------------------------------------------------------------------
+
+#### 3. A program to remove duplicates elements from a list.
