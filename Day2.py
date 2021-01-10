@@ -10,3 +10,5 @@ for i in lst:
     if i == a:
         count = count+1
 print("count of "+a+" is : "+str(count))
+
+----------------------------------------------------------------
