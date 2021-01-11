@@ -13,4 +13,17 @@ if not lst:
 else:
     print("List is not empty")
    
-  -----------------------------------------------------------
+-----------------------------------------------------------
+
+####  A program to find the list of words that are longer than n 
+
+string = input ("Enter the string: \n")
+a = string.split(" ")
+b = []
+n = int(input("enter the number : \n"))
+for i in a:
+    if len(i) > n:
+        b.append(i)
+print("List of words: ",b)
+
+-------------------------------------------------------------
