@@ -29,3 +29,13 @@ print("List of words: ",b)
 -------------------------------------------------------------
 
 #### 3. A program to print the numbers of a specified list after removing even numbers from it.
+
+lst = []
+n = int(input("Enter list element:\n"))
+for i in range(n):
+    a = int(input())
+    lst.append(a)
+print(lst)
+for i in lst:
+    if i % 2 == 1:
+         print(i)
