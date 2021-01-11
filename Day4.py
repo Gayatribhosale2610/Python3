@@ -1,6 +1,6 @@
 ## Day 4
 
-#### A program to check a list is empty or not.
+#### 1. A program to check a list is empty or not.
 
 lst =[]
 n = int(input("Enter list number:\n"))
@@ -15,7 +15,7 @@ else:
    
 -----------------------------------------------------------
 
-####  A program to find the list of words that are longer than n 
+####  2. A program to find the list of words that are longer than n 
 
 string = input ("Enter the string: \n")
 a = string.split(" ")
@@ -27,3 +27,5 @@ for i in a:
 print("List of words: ",b)
 
 -------------------------------------------------------------
+
+#### 3. A program to print the numbers of a specified list after removing even numbers from it.
