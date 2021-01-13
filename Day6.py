@@ -11,6 +11,8 @@ for i in range(int(number1)):
 print("list =",list1)
 print("unique values =",list(set(list1)))
 
+--------------------------------------------------------------------------------
+
 #### 2.A Program to check whether two list are circularly identical or not..
 
 A=[]
