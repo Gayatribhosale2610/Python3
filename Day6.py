@@ -1,6 +1,6 @@
   ## Day 6
   
-  #### program to get unique values from a list
+#### 1.A program to get unique values from a list
 
 list1 =[]
 number1=int(input("enter length of list"))
@@ -11,7 +11,7 @@ for i in range(int(number1)):
 print("list =",list1)
 print("unique values =",list(set(list1)))
 
-#### Program to check whether two list are circularly identical or not..
+#### 2.A Program to check whether two list are circularly identical or not..
 
 A=[]
 n=int(input("length of list:"))
