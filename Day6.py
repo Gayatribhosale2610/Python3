@@ -1,4 +1,4 @@
-  ## Day 6
+## Day 6
   
 #### 1.A program to get unique values from a list
 
