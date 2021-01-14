@@ -1,6 +1,6 @@
 # Python3
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowlab.in%2Fthe-pandas-library-for-python%2F&psig=AOvVaw3pXdHddSK66G2sFw3qa8mI&ust=1610732893511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDVn-T9m-4CFQAAAAAdAAAAABAD)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbgkL1pUbzIC-2CZ12_4lyifov0y3Z40dEw&usqp=CAU)
 
 #### Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
