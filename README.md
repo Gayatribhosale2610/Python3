@@ -19,5 +19,3 @@ Python is derived from many other languages, including ABC, Modula-3, C, C++, Al
 Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).
 
 Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress.
-
-
