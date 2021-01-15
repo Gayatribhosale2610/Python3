@@ -10,9 +10,9 @@ for i in range(n):
     dic[key] = value
 print(dic)
 
-#### 2. Write a Program to add a key to a dictionary.
+----------------------------------------------------------------
 
------------------------------------------------------------------------
+#### 2. Write a Program to add a key to a dictionary.
     
 dic = {}
 n = int(input("Enter dictionary element number\n"))
