@@ -11,6 +11,8 @@ for i in range(n):
 print(dic)
 
 #### 2. Write a Program to add a key to a dictionary.
+
+-----------------------------------------------------------------------
     
 dic = {}
 n = int(input("Enter dictionary element number\n"))
