@@ -35,7 +35,7 @@ if x in dic:
 else:
     print("key does not exist in dictionary")
 
-#### . Write a Program to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x). 
+#### 3. Write a Program to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x). 
 
 a=int(input("Enter any number\n"))
 dic ={key:key * key for key in range(1,a+1)}
