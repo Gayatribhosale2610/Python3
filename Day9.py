@@ -19,3 +19,5 @@ dic4={}
 for i in (d1,d2,d3):
     dic4.update(i)
 print("Concatenated dictionary is: ",dic4)
+
+#### 2.Write a Program to check whether a given key already exists in a dictionary.
