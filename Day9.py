@@ -21,3 +21,16 @@ for i in (d1,d2,d3):
 print("Concatenated dictionary is: ",dic4)
 
 #### 2.Write a Program to check whether a given key already exists in a dictionary.
+
+dic = {}
+n =int(input("Enter elements\n"))
+for i in range(n):
+    key=int(input("key\n"))
+    value=int(input("value\n"))
+    dic[key]=value
+print("Dictionary: ",dic)
+x=int(input("Enter key for checking\n"))
+if x in dic:
+    print("key exist in the dictionary")
+else:
+    print("key does not exist in dictionary")
