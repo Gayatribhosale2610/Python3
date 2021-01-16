@@ -20,6 +20,8 @@ for i in (d1,d2,d3):
     dic4.update(i)
 print("Concatenated dictionary is: ",dic4)
 
+------------------------------------------------------------------------------------
+
 #### 2.Write a Program to check whether a given key already exists in a dictionary.
 
 dic = {}
@@ -35,6 +37,8 @@ if x in dic:
 else:
     print("key does not exist in dictionary")
 
+-------------------------------------------------------------------------------------    
+    
 #### 3. Write a Program to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x). 
 
 a=int(input("Enter any number\n"))
