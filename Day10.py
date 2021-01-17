@@ -14,3 +14,14 @@ print(dic1)
 
 #### 2.Write a  program to multiply all the items in a dictionary.
 szfc
+dic1 = {}
+n = int(input("Enter dictionary element\n"))
+for i in range(n):
+    key = input("key\n")
+    value = int(input("value\n"))
+    dic1[key] = value
+print(dic1)
+result=1
+for j in dic1:
+    result *= dic1[j]
+print(result)
