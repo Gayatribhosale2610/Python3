@@ -14,6 +14,8 @@ if x in dic1:
     del dic1[x]
 print(dic1)
 
+------------------------------------------------------------------------
+
 #### 2.Write a  program to multiply all the items in a dictionary.
 
 dic1 = {}
@@ -27,6 +29,8 @@ result=1
 for j in dic1:
     result *= dic1[j]
 print(result)
+
+-------------------------------------------------------------------------
 
 #### 3.Write a  program to map two lists into a dictionary.
 
