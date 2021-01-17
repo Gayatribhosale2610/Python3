@@ -13,7 +13,7 @@ if x in dic1:
 print(dic1)
 
 #### 2.Write a  program to multiply all the items in a dictionary.
-szfc
+
 dic1 = {}
 n = int(input("Enter dictionary element\n"))
 for i in range(n):
