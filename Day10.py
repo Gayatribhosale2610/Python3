@@ -1,5 +1,7 @@
 ## Day 10
+
 #### 1.Write a program to remove a key from a dictionary.
+
 dic1 = {}
 a = int(input("Enter dictionary element\n"))
 for i in range(a):
@@ -27,6 +29,7 @@ for j in dic1:
 print(result)
 
 #### 3.Write a  program to map two lists into a dictionary.
+
 lst1=[]
 lst2=[]
 n=int(input("Enter list element\n"))
