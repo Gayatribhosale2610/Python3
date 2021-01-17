@@ -27,3 +27,16 @@ for j in dic1:
 print(result)
 
 #### 3.Write a  program to map two lists into a dictionary.
+lst1=[]
+lst2=[]
+n=int(input("Enter list element\n"))
+for i in range(n):
+    x=input()
+    y=input()
+    lst1.append(x)
+    lst2.append(y)
+print(lst1)
+print(lst2)
+
+dic=dict(zip(lst1,lst2))
+print("Map two list\n"+str(dic))
