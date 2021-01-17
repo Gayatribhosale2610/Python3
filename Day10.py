@@ -11,3 +11,5 @@ x = input("Enter key which you have to delete\n")
 if x in dic1:
     del dic1[x]
 print(dic1)
+
+#### 2.Write a  program to multiply all the items in a dictionary.
