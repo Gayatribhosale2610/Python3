@@ -13,3 +13,4 @@ if x in dic1:
 print(dic1)
 
 #### 2.Write a  program to multiply all the items in a dictionary.
+szfc
