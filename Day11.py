@@ -11,5 +11,4 @@ for i in range(n):
 print("dictionary =",dict)
 print("unique values in a dictionary =",set(dict.values()))
 
-####
-3.Write a  program to find the highest 3 values in a dictionary.
+#### 2.Write a  program to find the highest 3 values in a dictionary.
