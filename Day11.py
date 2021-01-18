@@ -11,6 +11,8 @@ for i in range(n):
 print("dictionary =",dict)
 print("unique values in a dictionary =",set(dict.values()))
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 #### 2.Write a program to create and display all combinations of letters, selecting each letter from a different kay in a dictionary. 
 dict={}
 n=int(input("Enter Elements\n"))
@@ -26,7 +28,8 @@ for i in list1:
             dict1 =i+a
             print(dict1)
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
+            
 #### 3.Write a  program to find the highest 3 values in a dictionary.
 
 dict ={}
