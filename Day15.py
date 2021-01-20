@@ -1,4 +1,5 @@
 ## Day 15
+
 #### 1.Write a program to print a dictionary line by line.
 dic={}
 n=int(input("enter element\n"))
