@@ -7,3 +7,5 @@ for i in range(n):
     value=input("value\n")
     dic[key]=value
 print(dic)
+
+#### 2.Write a  program to  check multiple kays exists in a dictionary.
