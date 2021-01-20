@@ -9,6 +9,8 @@ for i in range(n):
     dic[key]=value
 print(dic)
 
+------------------------------------------------------------------------
+
 #### 2.Write a  program to  check multiple kays exists in a dictionary.
 dic = {}
 n = int(input("Enter dictionary element number\n"))
