@@ -9,3 +9,12 @@ for i in range(n):
 print(dic)
 
 #### 2.Write a  program to  check multiple kays exists in a dictionary.
+dic = {}
+n = int(input("Enter dictionary element number\n"))
+for i in range(n):
+    key = input("key\n")
+    value = int(input("value\n"))
+    dic[key] = value
+print(dic)
+print("key exist in dictinary :",dic.keys()>={input()})
+print("key exist in dictinary :",dic.keys()>={input()})
