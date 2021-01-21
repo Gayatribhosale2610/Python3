@@ -11,6 +11,8 @@ for n in str1:
         freq[n] = 1
 print(freq)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Write a  program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself. 
 
 string = input("Enter the string\n")
