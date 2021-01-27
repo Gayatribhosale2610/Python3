@@ -11,6 +11,8 @@ for i in string:
 print("Number of vowels are:")
 print(vowel)
 
+------------------------------------------------------------------------------
+
 #### 2. Write a Python program to count occurrences of a substring in a string.
 
 str1 = input("Enter the string\n")
