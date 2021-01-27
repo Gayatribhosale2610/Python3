@@ -1,5 +1,7 @@
 ## Day 18
 
+#### 1 Write a Python program to count and display the vowels of a given text.
+
 string= input("Enter your string: ")
 vowel = 0
 for i in string:
