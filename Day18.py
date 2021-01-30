@@ -9,7 +9,7 @@ for i in string:
          or i=='E' or i=='I' or i=='O' or i=='U'):
             vowel = vowel + 1
 print("Number of vowels are:")
-
+print(vowel)
 
 ------------------------------------------------------------------------------
 
